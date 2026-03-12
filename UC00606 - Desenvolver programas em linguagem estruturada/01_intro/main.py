@@ -70,7 +70,7 @@ print("------------")
 # input
 
 
-nome = input("Digite seu nome: ")
+nome = input("Digite seu nome: ")  # -> devolve sempre str
 idade = input("Digite a sua idade: ")
 print(f"ola {nome}, tens {idade} anos")
 
@@ -99,6 +99,7 @@ print(f"ola {nome}, tens {idade} anos e nascste em {ano_nasc}")
 
 5 Faça um Programa que converta metros para centímetros.
 6 Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+--
 
 
 """
