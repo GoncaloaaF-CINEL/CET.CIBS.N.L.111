@@ -71,3 +71,6 @@ print(nomes[-50])
 
 print("-----------")
 
+print("Fernando")
+
+print("---------")
