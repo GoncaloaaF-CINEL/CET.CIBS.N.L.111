@@ -70,4 +70,12 @@ for i in range(1, 6):
     num = int(input(f"Digite o {i}º número: "))
     lista2.append(num)
 
-print(lista2)
+    # range()
+for num in lista2:
+    print("elemento:", num)
+
+lst = [1, 2, 3, 6, 7, 1, 9, 12, 5]
+
+lst.sort(reverse=True)
+
+print(lst)
