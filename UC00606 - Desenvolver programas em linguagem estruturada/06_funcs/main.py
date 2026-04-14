@@ -68,6 +68,12 @@ print("res2 ", calc2)
 3 crie uma função que permita cirar uma var com a msg ola [nome], bem vindo
     mostre o a msg (fora da função)
 
+4 Cria uma função chamada dobro que receba um número e devolva o seu dobro.
+5 Cria uma função chamada media que receba dois números e devolva a média.
+
+6 Cria uma função chamada par_ou_impar que receba um número e devolva:
+    "Par" se for par
+    "Ímpar" se for ímpar
 
 
 """
