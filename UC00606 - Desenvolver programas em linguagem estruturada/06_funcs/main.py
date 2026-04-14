@@ -60,3 +60,14 @@ print("res1 ", calc1)
 calc2 = soma(a, b) * soma(b, c)
 print("res2 ", calc2)
 
+
+
+"""
+1 Crie uma função msg  que mostre a msg ola mundo 
+2 Crie uma função saudação  que mostre a msg ola [nome], bem vindo 
+3 crie uma função que permita cirar uma var com a msg ola [nome], bem vindo
+    mostre o a msg (fora da função)
+
+
+
+"""
