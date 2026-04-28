@@ -75,5 +75,14 @@ print("res2 ", calc2)
     "Par" se for par
     "Ímpar" se for ímpar
 
+7 Cria uma função chamada maior que receba dois números e devolva o maior.
+
+8 Cria uma função chamada positivo_negativo que receba um número e devolva:
+    "Positivo"
+    "Negativo"
+    "Zero"
+
+-- Nova --
+9 Cria uma função chamada tabuada que receba um número e imprima a tabuada desse número (de 1 a 10).
 
 """
